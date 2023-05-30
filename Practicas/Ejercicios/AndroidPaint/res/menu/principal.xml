@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item 
+        android:id="@+id/action_nuevo"
+		android:icon="@android:drawable/ic_input_get"
+		android:title="@string/action_nuevo"
+		android:showAsAction="ifRoom|withText" />
+    
+    <item 
+        android:id="@+id/action_borrar"
+		android:icon="@android:drawable/ic_menu_compass"
+		android:title="@string/action_borrar"
+		android:showAsAction="ifRoom|withText" />
+    
+    <item 
+        android:id="@+id/action_color"
+		android:icon="@android:drawable/ic_menu_view"
+		android:title="@string/action_color"
+		android:showAsAction="ifRoom|withText" />
+    
+    <item 
+        android:id="@+id/action_guardar"
+		android:icon="@android:drawable/ic_menu_save"
+		android:title="@string/action_guardar"
+		android:showAsAction="ifRoom|withText" />
+    
+    <item 
+        android:id="@+id/action_compartir"
+		android:icon="@android:drawable/ic_menu_share"
+		android:title="@string/action_compartir"
+		android:showAsAction="ifRoom|withText" />
+
+</menu>

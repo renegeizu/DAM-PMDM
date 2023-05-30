@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pong</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="modo_listo">Toca para Jugar</string>
+    <string name="modo_pausa">Pausado</string>
+    <string name="modo_victoria">Punto para el Jugador</string>
+    <string name="modo_derrota">Punto para la CPU</string>
+    <string name="menu_juego_nuevo">Juego Nuevo</string>
+    <string name="menu_salir">Salir</string>
+    <string name="menu_continuar">Continuar</string>
+    <string name="marcador_inicial">0    0</string>
+</resources>

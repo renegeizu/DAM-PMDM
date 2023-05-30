@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ViewPager</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="txt_ies">I.E.S. Zaidín-Vergeles</string>
+    <string name="txt_directorio">Directorio</string>
+    <string name="txt_informacion">Avda. Primavera, 26-28\n(18008) Granada\nTlf: 958 89 38 50\nFax: 958 12 89 05</string>
+    <string name="txt_directiva">Director Manuel Rodríguez\nVicedirectora Pilar Fernández\nSecretaria Eva María Ruíz\nJefe de Estudios Luis Baena</string>
+    <string name="txt_correo">secretaria.ieszaidinvergeles@gmail.com</string>
+	<string name="txt_enlaces">Enlaces de interés</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tomar Fotos</string>
+    <string name="MenuAjustes">Menu Ajustes</string>
+    <string name="textoBt">Tomar foto</string>
+    <string name="title_activity_ajustes">Ajustes</string>
+    <string name="texto1">¿Dónde desea guardar sus archivos?</string>
+    <string name="texto2">Nombre predeterminado de las fotos</string>
+	<string name="textoRB1">Memoria externa publica</string>
+	<string name="textoRB2">Memoria externa privada</string>
+	<string name="btGuardar">Guardar</string>
+	<string name="btCancelar">Cancelar</string>
+</resources>

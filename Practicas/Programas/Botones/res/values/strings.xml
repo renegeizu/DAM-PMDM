@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Botones</string>
+    <string name="action_settings">Settings</string>
+    <string name="bt1">Boton 1</string>
+    <string name="bt2">Boton 2</string>
+    <string name="bt3">Boton 3</string>
+    <string name="bt4">Boton 4</string>
+
+</resources>

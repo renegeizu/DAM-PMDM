@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gestion Anime</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_secundario">Edicion</string>
+    
+    <string name="detalleNombre">Nombre del Anime</string>
+    <string name="detalleGenero">Genero del Anime</string>
+    <string name="detalleVisto">Si/No</string>
+    <string name="detalleDescripcion">Descripcion del Anime</string>
+    
+    <string name="fragmento_edicion_nombre">Nombre:</string>
+    <string name="fragmento_edicion_Genero">Genero:</string>
+    <string name="fragmento_edicion_Visto">¿Has visto el anime?</string>
+    <string name="fragmento_edicion_Descripcion">Descripcion:</string>
+
+</resources>

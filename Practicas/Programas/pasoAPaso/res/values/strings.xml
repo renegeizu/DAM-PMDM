@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Paso A Paso</string>
+    <string name="action_settings">Ajustes</string>
+	<string name="bt_saludar">Saludar</string>
+	<string name="hint_texto">Escribe tu nombe</string>
+	<string name="texto_saludo1"></string>
+	<string name="texto_saludo2">Hola \m</string>
+	<!-- Espacio en blanco: &#160; -->
+</resources>

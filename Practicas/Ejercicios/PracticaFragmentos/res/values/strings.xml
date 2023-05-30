@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Listado</string>
+    <string name="title_activity_secundaria">Informacion</string>
+    <string name="action_agregar">Agregar</string>
+    <string name="action_borrar">Borrar</string>
+
+</resources>

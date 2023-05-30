@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Actividades -->
+    <string name="app_name">Primaria</string>
+    <string name="title_activity_secundaria">Secundaria</string>
+    <string name="title_activity_terciaria">Terciaria</string>
+    <!-- Menu -->
+    <string name="Batalla">Batalla</string>
+    <string name="Personaje_1">Personaje 1</string>
+    <string name="Personaje_2">Personaje 2</string>
+    <string name="BatallaA">Para Comenzar, Selecciona Los Luchadores</string>
+    <string name="PersonajeA_1">Selecciona El Luchador 1</string>
+    <string name="PersonajeA_2">Selecciona El Luchador 2</string>
+    <!-- Principal -->
+    <string name="tv">Resultado:</string>
+    <string name="tv2"></string>
+    <string name="btL1">Luchador 1</string>
+    <string name="btL2">Luchador 2</string>
+    <!-- Secundario -->
+    <string name="bt1">Luffy</string>
+    <string name="bt2">Eren</string>
+    <string name="bt3">Ueki</string>
+    <string name="bt4">Goku</string>
+    <string name="bt5">Ace</string>
+    <!-- Terciario -->
+    <string name="bt6">Levi</string>
+    <string name="bt7">Haydn</string>
+    <string name="bt8">Vegeta</string>
+    <!-- Secundario -->
+    <string name="bt9">Issei Hyudo</string>
+    <string name="bt10">Taichi</string>
+    <string name="bt11">Tsubasa</string>
+    <string name="bt12">Ranma</string>
+    <string name="bt13">Cancelar</string>
+    <!-- Terciario -->
+    <string name="bt14">Rias Gremory</string>
+    <string name="bt15">Yamato</string>
+    <string name="bt16">Kojiro</string>
+    <string name="bt17">Yaiba</string>
+    <string name="bt18">Cancelar</string>
+
+</resources>

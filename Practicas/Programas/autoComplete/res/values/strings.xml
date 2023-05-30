@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AutoComplete</string>
+    <string name="action_settings">Settings</string>
+    <string name="actvPaises"></string>
+	<string-array name="array_paises">
+		<item>Andorra</item>
+		<item>Angola</item>
+		<item>Anguila</item>
+	</string-array>
+
+</resources>

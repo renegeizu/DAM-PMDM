@@ -1,0 +1,30 @@
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <com.rngds.pong.PongView
+            android:id="@+id/main"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"/>
+
+    <TextView
+            android:id="@+id/marcador"
+            android:text="@string/marcador_inicial"
+            android:visibility="visible"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|top"
+            android:layout_marginTop="20dip"
+            android:textColor="#1eff00"
+            android:textSize="24sp"/>
+
+    <TextView
+            android:id="@+id/estado"
+            android:text="@string/modo_listo"
+            android:visibility="visible"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="25dip"
+            android:textColor="#1eff00"
+            android:textSize="24sp"/>
+
+</merge>

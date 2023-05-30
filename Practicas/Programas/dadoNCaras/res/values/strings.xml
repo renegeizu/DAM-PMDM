@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dado N Caras</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="etNumero">Escribe el numero de caras</string>
+    <string name="bt_Dado">Lanzar Dado</string>
+
+</resources>

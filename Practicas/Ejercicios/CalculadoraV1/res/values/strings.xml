@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calculadora V1</string>
+    <string name="action_settings">Rafael Bailón Robles 2ºDAM</string>
+    <string name="tv"></string>
+    <string name="et"></string>
+    <string name="btClear">Clear</string>
+    <string name="btSumar">+</string>
+    <string name="btRestar">-</string>
+    <string name="btMultiplicar">X</string>
+    <string name="btDividir">/</string>
+    <string name="btCero">0</string>
+    <string name="btUno">1</string>
+    <string name="btDos">2</string>
+    <string name="btTres">3</string>
+    <string name="btCuatro">4</string>
+    <string name="btCinco">5</string>
+    <string name="btSeis">6</string>
+    <string name="btSiete">7</string>
+    <string name="btOcho">8</string>
+    <string name="btNueve">9</string>
+    <string name="btPunto">.</string>
+    <string name="btIgual">=</string>
+
+</resources>

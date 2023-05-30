@@ -1,0 +1,33 @@
+package com.izv.fragments.db;
+
+	import android.content.Context;
+	import android.database.sqlite.SQLiteDatabase;
+	import android.database.sqlite.SQLiteOpenHelper;
+	import android.util.Log;
+
+public class Ayudante extends SQLiteOpenHelper {
+
+	public static final String DATABASE_NAME = "Anime.sqlite";
+	public static final int DATABASE_VERSION = 1;
+
+	public Ayudante(Context context) {
+		super(context, DATABASE_NAME, null, DATABASE_VERSION);
+	}
+
+	@Override
+	public void onCreate(SQLiteDatabase db) {
+		String sql="CREATE TABLE IF NOT EXISTS "+Contrato.Anime.TABLA+" ("
+			               +Contrato.Anime._ID+" INTEGER PRIMARY KEY AUTOINCREMENT, "
+			               +Contrato.Anime.NOMBRE+" VARCHAR(50) NOT NULL UNIQUE, "
+			               +Contrato.Anime.GENERO+" VARCHAR(30) NOT NULL, "
+			               +Contrato.Anime.DESCRIPCION+" VARCHAR(512) NOT NULL, "
+			               +Contrato.Anime.VISTO+" VARCHAR(3) NOT NULL)";
+		Log.v("SQL Anime", sql);
+		db.execSQL(sql);
+	}
+
+	@Override
+	public void onUpgrade(SQLiteDatabase db, int oldVersion,  int newVersion) {
+		onCreate(db);
+	}
+}

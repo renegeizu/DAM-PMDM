@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CasillasVerificacion</string>
+    <string name="action_settings">Settings</string>
+    <string name="Vacio">Estado</string>
+    <string name="Activado">Activo</string>
+    <string name="Desactivado">No Activo</string>
+    <string name="bt1">Check</string>
+    <string name="bt2">Switch</string>
+    <string name="bt3">Toggle</string>
+
+</resources>

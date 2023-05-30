@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidPaint</string>
+    <string name="action_guardar">Guardar</string>
+    <string name="action_color">Color</string>
+    <string name="action_nuevo">Nuevo</string>
+    <string name="action_borrar">Borrar</string>
+    <string name="action_compartir">Compartir</string>
+    <string name="btGuardar">Guardar</string>
+    <string name="etNombreCompartir">Nombra tu Imagen</string>
+    <string name="etHitCompartir">Frase para Compartir</string>
+    <string name="btCompartir">Guardar</string>
+    
+</resources>

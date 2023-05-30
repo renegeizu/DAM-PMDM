@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AgendaTTS</string>
+    <string name="action_grabar">Grabar STT</string>
+    <string name="title_activity_stt">Grabacion de Texto</string>
+    <string name="action_borrar">Borrar</string>
+    
+    <string name="tvTexto">Texto</string>
+    <string name="btGrabar">Comienza Dictar Tu Mensaje</string>
+    <string name="btGuardar">Guarda Tu Mensaje</string>
+    <string name="mensaje"></string>  
+    <string name="Borrar">¿Borrar?</string>
+
+</resources>

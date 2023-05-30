@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Numeros Aleatorios</string>
+    <string name="action_settings">Ajustes</string>
+	<string name="bt_Generar">Generas Numeros</string>
+	<string name="hint_et_Primero">Primero</string>
+	<string name="hint_et_Ultimo">Ultimo</string>
+	<string name="hint_et_Cantidad">Cantidad</string>
+	<string name="tv_Numero"></string>
+	<string name="txt_error">Error</string>
+	
+</resources>

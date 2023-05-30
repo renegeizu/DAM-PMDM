@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GenerarApk</string>
+    <string name="menu_op1">Ver layout 1</string>
+    <string name="menu_op2">Ver layout 2</string>
+    <string name="menu_firma">Rafa</string>
+    <string name="str_saludo">Hola</string>
+
+</resources>

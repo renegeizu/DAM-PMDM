@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Controles</string>
+    <string name="action_settings">Settings</string>
+	<string name="Secundaria">Secundaria</string>
+	
+    <string-array name="array_paises">
+        <item>Luffy</item>
+        <item>Kirito</item>
+        <item>Goku</item>
+        <item>Ueki</item>
+        <item>Issei</item>
+        <item>Kojiro</item>
+        <item>Taichi</item>
+        <item>Dokuro-Chan</item>
+        <item>Zoro Roronoa</item>
+        <item>Kojo Akatsuki</item>
+        <item>Ryuko Matoi</item>
+    </string-array>
+
+    <string name="title_activity_secundaria">Secundaria</string>
+    
+    <string name="accion_1">Accion 1</string>
+    <string name="accion_2">Accion 2</string>
+    <string name="accion_3">Accion 3</string>
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+
+    <fragment
+        android:id="@+id/fragIzda"
+        android:name="com.izv.usoorientaciones.FragmentoIzda"
+        android:layout_width="200dp"
+        android:layout_height="match_parent" />
+
+    <fragment
+        android:id="@+id/fragDcha"
+        android:name="com.izv.usoorientaciones.FragmentoDcha"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>

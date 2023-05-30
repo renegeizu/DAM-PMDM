@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Layout - Ejercicio 2</string>
+    <string name="Layout_1">Layout 1</string>
+    <string name="Layout_2">Layout 2</string>
+    <string name="Autor">Rafael Bailón Robles 2ºDAM</string>
+    <string name="texto">Entonces, ¿te estás rindiendo porque crees que no puedes ganar?. Es cierto, sólo hemos sufrido derrotas hasta ahora, eso es porque casi no sabíamos nada de ellos. No podemos derrotarlos sólo con números. Puede que hayamos perdido, pero el conocimiento que obtuvimos de esas batallas son nuestra esperanza. ¿Van a descartar el progreso táctico traído por cientos de miles de sacrificios, solo para servirte en una bandeja de plata? ¡Yo, voy a matarlos a cada uno de ellos y librarnos por fin de estas paredes! ¡Ese es mi sueño! ¡La humanidad todavía no lo ha perdido todo!.</string>
+	<string name="boton">Boton</string>
+	<string name="info">Informacion</string>
+	<string name="msnj">Mensaje...</string>
+	<string name="mas_info">Mas Informacion</string>
+	<string name="bla">Bla Bla Bla</string>
+    
+</resources>

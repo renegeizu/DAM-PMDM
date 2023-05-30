@@ -1,0 +1,61 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" >
+
+    <Button
+        android:id="@+id/btGenerar"
+        android:layout_width="286dp"
+        android:layout_height="wrap_content"
+        android:text="@string/bt_Generar" />
+
+    <TextView
+        android:id="@+id/tvNumero1"
+        android:layout_width="286dp"
+        android:layout_height="wrap_content"
+        android:text="@string/numero_tv"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/tvNumero2"
+        android:layout_width="230dp"
+        android:layout_height="wrap_content"
+        android:text="@string/numero_tv"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/tvNumero3"
+        android:layout_width="235dp"
+        android:layout_height="wrap_content"
+        android:text="@string/numero_tv"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/tvNumero4"
+        android:layout_width="247dp"
+        android:layout_height="wrap_content"
+        android:text="@string/numero_tv"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/tvNumero5"
+        android:layout_width="254dp"
+        android:layout_height="wrap_content"
+        android:text="@string/numero_tv"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/tvNumero6"
+        android:layout_width="256dp"
+        android:layout_height="wrap_content"
+        android:text="@string/numero_tv"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+</LinearLayout>

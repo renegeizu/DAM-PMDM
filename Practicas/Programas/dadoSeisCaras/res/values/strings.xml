@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dado Seis Caras</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="btDado">Lanzar Dado</string>
+    <string name="mensaje">Tu numero es &#160;</string>
+
+</resources>

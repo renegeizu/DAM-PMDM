@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Primitiva</string>
+    <string name="action_settings">Settings</string>
+    <string name="bt_Generar">Generar Numeros</string>
+    <string name="numero_tv">0</string>
+
+</resources>
